@@ -9,4 +9,11 @@ I worked on a light-weight, high performant yet beautiful ESO reshade preset.
 4. Start game, tweak to your liking or not and enjoy.
 
 *Note: * You can activate Performance Mode within Reshade menu in game.
+
 *Note 2: * To open the reshade menu, press pos1
+
+## Effects in use
+1. MultiLUT - using a color table I changed the colors of the game to change the overall very purple-ish shadow tint and make the colors pop more and more natural
+2. AmbientLight- Adds a soft glow to certain illuminated areas without interfering with your map or other UI views.
+3. AdaptiveSharpen - Gives the image and textures way more clarity and sharpness
+4. EyeAdaption - Makes sure highlights and shadows never get too strong
