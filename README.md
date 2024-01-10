@@ -24,6 +24,7 @@ I worked on a light-weight, high performant yet beautiful ESO reshade preset.
 ## Effects in use
 1. PD80LUT - using a color table I changed the colors of the game to change the overall very purple-ish shadow tint and make the colors pop more and more natural
 2. AmbientLight- Adds a soft glow to certain illuminated areas without interfering with your map or other UI views.
-3. LumaSharpen - Gives the image and textures way more clarity and sharpness
-4. Lightroom - change color and exposure
+3. LocalLaplacian - Gives clarity and contrast
+4. LumaSharpen - Gives the image and textures way more clarity and sharpness
+5. Lightroom - change color and exposure
 6. EyeAdaption - Makes sure highlights and shadows never get too strong
