@@ -7,10 +7,10 @@ I worked on a light-weight, high performant yet beautiful ESO reshade preset.
 2. Go to your ESO installation folder. (Usually something like C:\Program Files (x86)\Steam\steamapps\common\Zenimax Online\The Elder Scrolls Online\game\client)
 3. Make sure to remove any remnants of existing reshade installation (Make a backup). If you are not sure which files are relevant, check this link: https://reshade.me/forum/general-discussion/4398-howto-uninstall-reshade
 4. Copy the following files and folders to your games client folder:
-   [reshade-shaders]
-   dxgi.dll
-   ReShade.ini
-   Grey.ini
+   [reshade-shaders]  
+   dxgi.dll  
+   ReShade.ini  
+   Grey.ini  
 6. Start the game
 7. Open reshade by pressing POS1 / F2
 8. Check if all effects have been loaded correctly and have a checkmark
